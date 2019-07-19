@@ -1,4 +1,4 @@
-import template.library.*;
+import KAZ.samplelibrary.*;
 
 HelloLibrary hello;
 

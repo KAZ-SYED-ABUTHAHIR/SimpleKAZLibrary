@@ -1,4 +1,4 @@
-package template.library;
+package KAZ.samplelibrary;
 
 
 import processing.core.*;
@@ -43,7 +43,7 @@ public class HelloLibrary {
 	
 	
 	public String sayHello() {
-		return "hello library.";
+		return "Hello, I'm  KAZ Sample Library.";
 	}
 	/**
 	 * return the version of the Library.
